@@ -1,9 +1,213 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "sanduiches": [
+    {
+      "id": 2,
+      "title": "Sanduiches (Tipo 1)",
+      "description": "ronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passa ",
+      "available": "Disponinvel",
+      "image": {
+        "src": "https://i0.wp.com/mercadoeconsumo.com.br/wp-content/uploads/2019/04/Que-comida-saud%C3%A1vel-que-nada-brasileiro-gosta-de-fast-food.jpg?fit=1600%2C1067&ssl=1",
+        "alt": "test"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Sanduiches (Tipo 2)",
+      "description": "electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.d",
+      "available": "Disponinvel",
+      "image": {
+        "src": "https://i0.wp.com/mercadoeconsumo.com.br/wp-content/uploads/2019/04/Que-comida-saud%C3%A1vel-que-nada-brasileiro-gosta-de-fast-food.jpg?fit=1600%2C1067&ssl=1",
+        "alt": "test"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Sanduiches (Tipo 3)",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.d",
+      "available": "Esgotado",
+      "image": {
+        "src": "https://saopaulosecreto.com/wp-content/uploads/2022/10/Get-Burger-1024x683.jpg",
+        "alt": "dsads"
+      }
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "salgados": [
+    {
+      "id": 2,
+      "title": "Salgado (Tipo 1)",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.o",
+      "available": "Disponinvel",
+      "image": {
+        "src": "https://media.istockphoto.com/id/1146683159/pt/foto/mini-meat-pastels-on-wood-background.jpg?s=612x612&w=0&k=20&c=HOiIvlfI7P_Ewh06F7e7Qp4o7CxS-duVReFQbu65y3g=",
+        "alt": "ytest"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Salgado (Tipo 2)",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.o",
+      "available": "Disponinvel",
+      "image": {
+        "src": "https://media.istockphoto.com/id/1146683159/pt/foto/mini-meat-pastels-on-wood-background.jpg?s=612x612&w=0&k=20&c=HOiIvlfI7P_Ewh06F7e7Qp4o7CxS-duVReFQbu65y3g=",
+        "alt": "ytest"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Salgado (Tipo 3)",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.o",
+      "available": "Disponinvel",
+      "image": {
+        "src": "https://media.istockphoto.com/id/1146683159/pt/foto/mini-meat-pastels-on-wood-background.jpg?s=612x612&w=0&k=20&c=HOiIvlfI7P_Ewh06F7e7Qp4o7CxS-duVReFQbu65y3g=",
+        "alt": "ytest"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Salgado (Tipo 4)",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.o",
+      "available": "Disponinvel",
+      "image": {
+        "src": "https://media.istockphoto.com/id/1146683159/pt/foto/mini-meat-pastels-on-wood-background.jpg?s=612x612&w=0&k=20&c=HOiIvlfI7P_Ewh06F7e7Qp4o7CxS-duVReFQbu65y3g=",
+        "alt": "ytest"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Salgado (Tipo 5)",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.est",
+      "available": "Disponinvel",
+      "image": {
+        "src": "https://media.istockphoto.com/id/1146683159/pt/foto/mini-meat-pastels-on-wood-background.jpg?s=612x612&w=0&k=20&c=HOiIvlfI7P_Ewh06F7e7Qp4o7CxS-duVReFQbu65y3g=",
+        "alt": "testtesttest"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Salgado (Tipo 6)",
+      "description": "Card test dCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionescriptionCard test dCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionescriptionCard test dCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionescriptionCard test dCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionescription\n\n",
+      "available": "Disponinvel",
+      "image": {
+        "src": "https://media.istockphoto.com/id/1146683159/pt/foto/mini-meat-pastels-on-wood-background.jpg?s=612x612&w=0&k=20&c=HOiIvlfI7P_Ewh06F7e7Qp4o7CxS-duVReFQbu65y3g=",
+        "alt": "dsadsadsadas"
+      }
+    },
+    {
+      "id": 14,
+      "title": "Salgado (Tipo 7)",
+      "description": "sasasasasadsLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.adsadsasadsa",
+      "available": "Disponinvel",
+      "image": {
+        "src": "https://media.istockphoto.com/id/1146683159/pt/foto/mini-meat-pastels-on-wood-background.jpg?s=612x612&w=0&k=20&c=HOiIvlfI7P_Ewh06F7e7Qp4o7CxS-duVReFQbu65y3g=",
+        "alt": "dsadsadasdsadsadsa"
+      }
+    },
+    {
+      "id": 15,
+      "title": "Salgado (Tipo 8)",
+      "description": "sdadsabdsabjgsnklgLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.bnjkl;wbnjkldf;ger",
+      "available": "Disponinvel",
+      "image": {
+        "src": "https://media.istockphoto.com/id/1146683159/pt/foto/mini-meat-pastels-on-wood-background.jpg?s=612x612&w=0&k=20&c=HOiIvlfI7P_Ewh06F7e7Qp4o7CxS-duVReFQbu65y3g=",
+        "alt": "fsdfsdfsdfsd"
+      }
+    },
+    {
+      "id": 16,
+      "title": "Salgado (Tipo 9)",
+      "description": "testtesttesttLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.esttesttesttest",
+      "available": "Disponinvel",
+      "image": {
+        "src": "https://media.istockphoto.com/id/1146683159/pt/foto/mini-meat-pastels-on-wood-background.jpg?s=612x612&w=0&k=20&c=HOiIvlfI7P_Ewh06F7e7Qp4o7CxS-duVReFQbu65y3g=",
+        "alt": "testtesttesttesttesttest"
+      }
+    },
+    {
+      "title": "Salgado (Tipo 10)",
+      "description": "Uma descricao de test",
+      "available": "Disponinvel",
+      "image": {
+        "src": "https://media.istockphoto.com/id/1146683159/pt/foto/mini-meat-pastels-on-wood-background.jpg?s=612x612&w=0&k=20&c=HOiIvlfI7P_Ewh06F7e7Qp4o7CxS-duVReFQbu65y3g=",
+        "alt": "test"
+      },
+      "id": 17
+    }
   ],
-  "profile": { "name": "typicode" }
+  "pizzas": [
+    {
+      "id": 8,
+      "title": "Pizza Calabreza",
+      "description": "Card test dCard test descLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.riptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionescription",
+      "available": "Disponinvel",
+      "image": {
+        "src": "https://pastapizza.com.br/wp-content/uploads/2017/07/Pizza-Pizzaria-Forno-Forza-Express.jpg",
+        "alt": "test"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Pizza (Mussaerla)",
+      "description": "Card test dCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard test descriptionCard tesLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.t descriptionCard test descriptionescription",
+      "image": {
+        "src": "https://pastapizza.com.br/wp-content/uploads/2017/07/Pizza-Pizzaria-Forno-Forza-Express.jpg",
+        "alt": "test"
+      }
+    },
+    {
+      "title": "Pizza (Frango com Catupiry)",
+      "description": "descricaoLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. aleatoria,,,,",
+      "available": "Esgotado",
+      "image": {
+        "src": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/86f7100c92218a97fac8e3bbd18ed787.jpg",
+        "alt": "pizza"
+      },
+      "id": 10
+    },
+    {
+      "title": "Pizza (Tipo 3)",
+      "description": "PIZZAZPIZZAZLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.PIZZAZPIZZAZPIZZAZPIZZAZPIZZAZPIZZAZPIZZAZPIZZAZPIZZAZPIZZAZ",
+      "available": "Disponinvel",
+      "image": {
+        "src": "https://diaonline.ig.com.br/wp-content/uploads/2019/11/pizzaria-em-aguas-lindas_capa-1024x678.jpeg",
+        "alt": "PIZZAZPIZZAZPIZZAZ"
+      },
+      "id": 11
+    },
+    {
+      "title": "Pizza (Tipo 4)",
+      "description": "PIZZAZPIZZALorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.ZPIZZAZ",
+      "available": "Disponinvel",
+      "image": {
+        "src": "https://diaonline.ig.com.br/wp-content/uploads/2019/11/pizzaria-em-aguas-lindas_capa-1024x678.jpeg",
+        "alt": "PIZZAZPIZZAZPIZZAZ"
+      },
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "access_token": "xlin8w60rz",
+      "address": {
+        "city": "Sao paulo",
+        "state": "SP",
+        "country": "Brazil"
+      },
+      "telephone": 99999999999,
+      "password": "senha123123",
+      "email": "exemple@exemple.com",
+      "id": 2
+    },
+    {
+      "access_token": "oauchqso9j",
+      "address": {
+        "city": "São Paulo",
+        "state": "SP",
+        "country": "Brasil"
+      },
+      "telephone": 99999999999,
+      "password": "senha123123",
+      "email": "test@test.com",
+      "id": 3
+    }
+  ]
 }
